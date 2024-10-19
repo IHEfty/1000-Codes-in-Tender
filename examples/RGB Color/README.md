@@ -2,7 +2,7 @@
 
 ## Overview
 
-The `rgb_color_test.td` script demonstrates how to generate RGB color combinations using the [**Tender**](https://github.com/2dprototype/tender-free). This example is part of the larger **1000+ Codes in Tender** repository, showcasing various coding techniques and functionalities.
+The `rgb_color_test.td` script demonstrates how to generate RGB color combinations using the [**Tender**](https://github.com/2dprototype/tender). This example is part of the larger **1000+ Codes in Tender** repository, showcasing various coding techniques and functionalities.
 
 ## Features
 
