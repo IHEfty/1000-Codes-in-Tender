@@ -80,7 +80,7 @@ Contributions are welcome! If you have code snippets or examples that you would 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This project is open-source. Feel free to contribute or use it in your own projects.
 
 ## Acknowledgments
 
