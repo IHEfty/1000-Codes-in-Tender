@@ -4,15 +4,6 @@ import "fmt"
 import "json"
 import "strings"
 import "colors" as color
-import "fs"
-
-count := 0
-
-for f in fs.readdir(".") {
-    if f.is_dir { count++ }
-}
-
-println(count)
 
 serverAddr := net.resolve_tcp_addr("tcp", "localhost:3000")
 conn := net.dial("tcp", serverAddr)
