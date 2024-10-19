@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains two simple scripts, `hello.td` and `hello1.td`, that demonstrate basic output functionality in the [**Tender**](https://github.com/2dprototype/tender-free). These scripts showcase how to print a message to the console with and without color formatting.
+This repository contains two simple scripts, `hello.td` and `hello1.td`, that demonstrate basic output functionality in the [**Tender**](https://github.com/2dprototype/tender). These scripts showcase how to print a message to the console with and without color formatting.
 
 ## Scripts
 
