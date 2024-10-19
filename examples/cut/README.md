@@ -1,6 +1,6 @@
 # Cut
 
-The **Cut** project is part of the **1000+ Codes in Tender** collection. This project, written in the [**Tender**](https://github.com/2dprototype/tender-free) programming language, demonstrates how to manipulate and draw images on a canvas.
+The **Cut** project is part of the **1000+ Codes in Tender** collection. This project, written in the [**Tender**](https://github.com/2dprototype/tender-free), demonstrates how to manipulate and draw images on a canvas.
 
 ## Running the Project
 
