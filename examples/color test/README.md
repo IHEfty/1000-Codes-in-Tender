@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains two scripts, `col_test.td` and `col_test_2.td`, that demonstrate the generation of RGB color values using the [**Tender**](https://github.com/2dprototype/tender-free) programming language. Both scripts explore color manipulation through ANSI escape codes, with `col_test_2.td` enhancing the output by including random strings and improving console formatting.
+This repository contains two scripts, `col_test.td` and `col_test_2.td`, that demonstrate the generation of RGB color values using the [**Tender**](https://github.com/2dprototype/tender-free). Both scripts explore color manipulation through ANSI escape codes, with `col_test_2.td` enhancing the output by including random strings and improving console formatting.
 
 ## Scripts
 
