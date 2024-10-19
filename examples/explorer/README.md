@@ -38,7 +38,7 @@
 1. Launch the Tender Explorer by running the following command in your terminal:
 
    ```bash
-   tender explorer.td
+   tender main.td
    ```
 
 2. The file explorer will open in a window showing the current directory contents.
