@@ -2,7 +2,7 @@
 
 ## Overview
 
-The `iden.td` script showcases the use of identifiers in the Tender, including the ability to use non-English characters. This example highlights how variables and objects can be defined and utilized with identifiers that include Unicode characters.
+The `iden.td` script showcases the use of identifiers in the [**Tender**](https://github.com/2dprototype/tender-free), including the ability to use non-English characters. This example highlights how variables and objects can be defined and utilized with identifiers that include Unicode characters.
 
 ## Features
 
