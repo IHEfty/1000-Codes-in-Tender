@@ -1,6 +1,6 @@
 # Termimage
 
-The **Termimage** project is part of the **1000+ Codes in Tender** collection. This project, written in the [**Tender**](https://github.com/2dprototype/tender-free) programming language, allows users to convert images into ASCII art and display them in the terminal, with optional color support.
+The **Termimage** project is part of the **1000+ Codes in Tender** collection. This project, written in the [**Tender**](https://github.com/2dprototype/tender-free), allows users to convert images into ASCII art and display them in the terminal, with optional color support.
 
 ## Running the Project
 
