@@ -1,6 +1,6 @@
 # MewChat
 
-**MewChat** is a simple terminal-based chat application built using the **Tender** programming language for the client-side and **Node.js** for the server-side. It allows multiple clients to connect to a TCP server and send messages to each other in real time.
+**MewChat** is a simple terminal-based chat application built using the [**Tender**](https://github.com/2dprototype/tender) for the client-side and **Node.js** for the server-side. It allows multiple clients to connect to a TCP server and send messages to each other in real time.
 
 This project is part of the **1000+ Codes in Tender** repository, showcasing the flexibility and simplicity of **Tender** for handling network communication alongside traditional languages like JavaScript.
 
