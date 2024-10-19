@@ -1,6 +1,6 @@
 # Audio Test
 
-The **Audio Test** project is part of the **1000+ Codes in Tender** collection. This project, written in the [**Tender**](https://github.com/2dprototype/tender) programming language, demonstrates how to play audio files using the audio capabilities of Tender.
+The **Audio Test** project is part of the **1000+ Codes in Tender** collection. This project, written in the [**Tender**](https://github.com/2dprototype/tender), demonstrates how to play audio files using the audio capabilities of Tender.
 
 ## Overview
 
