@@ -1,6 +1,6 @@
 # Zip Test
 
-The **Zip Test** project is part of the **1000+ Codes in Tender** collection. This project, written in [**Tender**](https://github.com/2dprototype/tender), demonstrates how to create and read ZIP files using the Tender programming language.
+The **Zip Test** project is part of the **1000+ Codes in Tender** collection. This project, written in [**Tender**](https://github.com/2dprototype/tender), demonstrates how to create and read ZIP files using the Tender.
 
 ## Running the Project
 
