@@ -45,7 +45,7 @@ Clone this repository and navigate to the **mewchat_td** directory:
 
 ```bash
 git clone https://github.com/IHEfty/1000-Codes-in-Tender.git
-cd 1000-Codes-in-Tender/examples/mewchat_td
+cd 1000-Codes-in-Tender/examples/mewchat
 ```
 
 ### **4. Run the Chat Server**
