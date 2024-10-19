@@ -30,7 +30,7 @@ To get started with Tender, follow these steps:
 
 3. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/1000-codes-in-tender.git
+   git clone https://github.com/IHEfty/1000-codes-in-tender.git
    cd 1000-codes-in-tender
    ```
 
