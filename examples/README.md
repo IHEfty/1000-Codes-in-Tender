@@ -1,3 +1,7 @@
+Here's a modified version of the README file that includes information about the `count.td` script you provided. This will help users understand its purpose and how to use it within the **1000+ Codes in Tender** project.
+
+---
+
 # 1000+ Codes in Tender
 
 Welcome to **1000+ Codes in Tender**! This project is a comprehensive collection of code snippets and examples designed to help developers learn and utilize the Tender effectively. Whether you are a beginner or an experienced developer, you will find a variety of practical examples and tutorials that cover a wide range of functionalities in [**Tender**](https://github.com/2dprototype/tender).
@@ -7,6 +11,7 @@ Welcome to **1000+ Codes in Tender**! This project is a comprehensive collection
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
+- [Included Scripts](#included-scripts)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
@@ -59,12 +64,29 @@ examples
 ├── benzene
 │   ├── benzene.td
 │   └── ...
-└── ...
+├── ...
+└── count.td
 ```
 
 - **examples/**: Contains various Tender scripts demonstrating different functionalities.
 - **README.md**: This documentation file.
 - **LICENSE**: The license for this project.
+
+## Included Scripts
+
+### `count.td`
+
+The `count.td` script counts the total number of `.td` files in the current directory and its subdirectories. It provides a simple way to track how many Tender scripts you have, which can be useful for project organization or inventory purposes.
+
+**How It Works**:
+1. **Walks the Directory**: The script uses the `path.walklist` function to retrieve a list of files in the current directory.
+2. **Counts `.td` Files**: It iterates through the list and checks each file's extension. If the extension is `.td`, it increments a counter and adds the file to a list.
+3. **Outputs Results**: Finally, it prints the total count of `.td` files and lists them.
+
+**To Run `count.td`**:
+```bash
+tender count.td
+```
 
 ## Contributing
 
@@ -83,3 +105,7 @@ This project is open-source. Feel free to contribute or use it in your own proje
 ## Acknowledgments
 
 A special thanks to the creators of Tender and all contributors to the Tender community. Your hard work and dedication make this project possible!
+
+---
+
+Feel free to modify any section further to better fit your vision!
