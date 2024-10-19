@@ -1,6 +1,6 @@
 # 1000+ Codes in Tender
 
-Welcome to **1000+ Codes in Tender**! This project is a comprehensive collection of code snippets and examples designed to help developers learn and utilize the Tender effectively. Whether you are a beginner or an experienced developer, you will find a variety of practical examples and tutorials that cover a wide range of functionalities in [**Tender**](https://github.com/2dprototype/tender-free).
+Welcome to **1000+ Codes in Tender**! This project is a comprehensive collection of code snippets and examples designed to help developers learn and utilize the Tender effectively. Whether you are a beginner or an experienced developer, you will find a variety of practical examples and tutorials that cover a wide range of functionalities in [**Tender**](https://github.com/2dprototype/tender).
 
 ## Table of Contents
 - [Introduction](#introduction)
