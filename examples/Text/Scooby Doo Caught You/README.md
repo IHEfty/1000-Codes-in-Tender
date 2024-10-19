@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the `main.td` script, which demonstrates a text animation effect using the [**Tender**](https://github.com/2dprototype/tender-free). The script reads words from a subtitle file and displays them on the console with a delay, simulating a typing effect. It also features color-coded text using embedded color commands.
+This repository contains the `main.td` script, which demonstrates a text animation effect using the [**Tender**](https://github.com/2dprototype/tender). The script reads words from a subtitle file and displays them on the console with a delay, simulating a typing effect. It also features color-coded text using embedded color commands.
 
 ## Script
 
