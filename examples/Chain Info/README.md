@@ -2,7 +2,7 @@
 
 ## Overview
 
-This script, `chain_info.td`, fetches blockchain data from an external API and processes it to display information about transactions, specifically the balance of addresses in the blockchain. It utilizes the [**Tender**](https://github.com/2dprototype/tender-free), along with HTTP and JSON modules to handle data retrieval and processing.
+This script, `chain_info.td`, fetches blockchain data from an external API and processes it to display information about transactions, specifically the balance of addresses in the blockchain. It utilizes the [**Tender**](https://github.com/2dprototype/tender), along with HTTP and JSON modules to handle data retrieval and processing.
 
 ## Script
 
