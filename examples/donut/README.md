@@ -1,6 +1,6 @@
 # Donut
 
-The **Donut** project is part of the **1000+ Codes in Tender** collection. This project, written in the [**Tender**](https://github.com/2dprototype/tender) programming language, demonstrates how to create a rotating ASCII donut shape in the terminal.
+The **Donut** project is part of the **1000+ Codes in Tender** collection. This project, written in the [**Tender**](https://github.com/2dprototype/tender) , demonstrates how to create a rotating ASCII donut shape in the terminal.
 
 ## Overview
 
@@ -36,6 +36,10 @@ will result in a slower rotation.
 - **Imports**: The script imports the `math` and `strings` modules for mathematical functions and string manipulation.
 - **Functions**: The `draw` function calculates the donut's shape and updates the ASCII representation.
 - **Main Loop**: The loop continuously updates the parameters for the drawing function, creating the rotation effect.
+
+## Project Structure
+
+- **cut.td**: The main script that loads the image and performs drawing operations on the canvas.
 
 ## Explore More
 
