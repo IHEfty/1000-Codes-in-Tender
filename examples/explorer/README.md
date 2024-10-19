@@ -1,6 +1,6 @@
 # Tender Explorer
 
-**Tender Explorer** is part of the **1000 Codes Project**, showcasing various functional and creative code snippets using the **Tender** programming language. This particular code is a simple yet interactive file explorer built with Tender. It enables users to navigate directories, view files, and explore their system's file structure using an intuitive interface.
+**Tender Explorer** is part of the **1000 Codes Project**, showcasing various functional and creative code snippets using the [**Tender**](https://github.com/2dprototype/tender). This particular code is a simple yet interactive file explorer built with Tender. It enables users to navigate directories, view files, and explore their system's file structure using an intuitive interface.
 
 ## Table of Contents
 
