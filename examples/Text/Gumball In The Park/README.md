@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the `main.td` script, which showcases a text animation effect using the [**Tender**](https://github.com/2dprototype/tender-free). The script reads dialogue from an embedded text file and displays it in the console with a typing effect, simulating a natural reading experience.
+This repository contains the `main.td` script, which showcases a text animation effect using the [**Tender**](https://github.com/2dprototype/tender). The script reads dialogue from an embedded text file and displays it in the console with a typing effect, simulating a natural reading experience.
 
 ## Script
 
