@@ -1,4 +1,4 @@
-# RGB Color Test in Tender
+# RGB Color Test Examples in Tender
 
 ## Overview
 
