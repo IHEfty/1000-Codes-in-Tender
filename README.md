@@ -1,6 +1,6 @@
 # 1000+ Codes in Tender
 
-Welcome to **1000+ Codes in Tender**! This project is a comprehensive collection of code snippets and examples designed to help developers learn and utilize the Tender programming language effectively. Whether you are a beginner or an experienced developer, you will find a variety of practical examples and tutorials that cover a wide range of functionalities in Tender.
+Welcome to **1000+ Codes in Tender**! This project is a comprehensive collection of code snippets and examples designed to help developers learn and utilize the Tender effectively. Whether you are a beginner or an experienced developer, you will find a variety of practical examples and tutorials that cover a wide range of functionalities in [**Tender**](https://github.com/2dprototype/tender-free).
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -25,6 +25,8 @@ To get started with Tender, follow these steps:
    ```bash
    go install github.com/2dprototype/tender/cmd/tender@latest
    ```
+
+   Alternatively, you can download precompiled binaries from the [Tender Releases](https://github.com/2dprototype/tender/releases) page. Choose the appropriate binary for your operating system and follow the installation instructions provided there.
 
 3. **Clone the Repository**:
    ```bash
