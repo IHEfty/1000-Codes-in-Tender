@@ -2,11 +2,6 @@
 
 The **Cut** project is part of the **1000+ Codes in Tender** collection. This project, written in the [**Tender**](https://github.com/2dprototype/tender), demonstrates how to manipulate and draw images on a canvas.
 
-## Preview
-
-![preview](./gopher.png)
-![preview](./out.png)
-
 ## Running the Project
 
 To run the Cut project, execute the `cut.td` script:
@@ -17,6 +12,11 @@ tender cut.td
 
 This will load the image `gopher.png` and create an output image `out.png` with various drawings.
 
+## gopher.png
+![preview](./gopher.png)
+
+## out.png
+![preview](./out.png)
 ### Customizing the Image
 
 To use a different image, replace `gopher.png` in the script with your desired image file name. Ensure that your image is located in the same directory as the script.
