@@ -4,6 +4,10 @@
 
 The `rgb_color_test.td` script demonstrates how to generate RGB color combinations using the [**Tender**](https://github.com/2dprototype/tender). This example is part of the larger **1000+ Codes in Tender** repository, showcasing various coding techniques and functionalities.
 
+## Preview
+
+![preview](./preview.png)
+
 ## Features
 
 - **RGB Color Generation**: The script iterates through a predefined range of RGB values and outputs colored text to the terminal.
