@@ -30,6 +30,10 @@ Contributions are welcome! If you have code snippets or examples that you would 
 
 This project is open-source. Feel free to contribute or use it in your own projects.
 
+## Explore More
+
+This project is one of many examples in the [**1000+ Codes in Tender**](https://github.com/2dprototype/tender-free) repository. Feel free to explore and modify the code to enhance your understanding of color manipulation and formatting with Tender!
+
 ## Acknowledgments
 
 A special thanks to the creators of Tender and all contributors to the Tender community. Your hard work and dedication make this project possible!
