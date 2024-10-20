@@ -92,7 +92,7 @@ canvas.new_window(opts, fn(window){
 
 ## Explore More
 
-This project is one of many examples in the [**1000+ Codes in Tender**](https://github.com/2dprototype/tender-free) repository. Feel free to explore and modify the code to enhance your understanding of graphical drawing with Tender!
+This project is one of many examples in the [**1000+ Codes in Tender**](https://github.com/IHEfty/1000-Codes-in-Tender/) repository. Feel free to explore and modify the code to enhance your understanding of graphical drawing with Tender!
 
 ## License
 
