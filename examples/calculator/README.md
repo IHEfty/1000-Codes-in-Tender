@@ -2,6 +2,10 @@
 
 The **Calculator Template** is part of the **1000+ Codes in Tender** collection. This project, written in [**Tender**](https://github.com/2dprototype/tender), provides a graphical interface for a basic calculator. While it offers a fully functioning user interface, the calculation logic is not yet implemented—making this a template for further development.
 
+## Preview
+
+![preview](./preview.png)
+
 ## Running the Project
 
 To run the **Calculator Template**, execute the `calc.td` script:
