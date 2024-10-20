@@ -6,6 +6,10 @@ The **Donut** project is part of the **1000+ Codes in Tender** collection. This 
 
 The **Donut** program uses mathematical functions to generate a 3D donut shape, represented using ASCII characters. The program continuously updates the display to create a rotating effect, providing a visually engaging output.
 
+## Preview
+
+![preview](./preview.png)
+
 ## Running the Project
 
 To run the Donut project, execute the `donut.td` script:
