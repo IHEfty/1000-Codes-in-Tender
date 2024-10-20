@@ -1,6 +1,6 @@
 # Dynamic Link Library (DLL) Example in Tender
 
-This project demonstrates how to use a **Dynamic Link Library (DLL)** in the **Tender** programming language. By leveraging the `dll` module, you can load external functions from a compiled DLL file and call them directly in your Tender scripts. This example shows how to use a DLL function to perform a simple addition.
+This project demonstrates how to use a **Dynamic Link Library (DLL)** in the [**Tender**](https://github.com/2dprototype/tender). By leveraging the `dll` module, you can load external functions from a compiled DLL file and call them directly in your Tender scripts. This example shows how to use a DLL function to perform a simple addition.
 
 ## Files Included
 
