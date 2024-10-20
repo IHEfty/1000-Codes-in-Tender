@@ -1,6 +1,6 @@
 # HTTP Request Example in Tender
 
-This project demonstrates how to make a basic HTTP GET request using the **http** module in the **Tender** programming language. The script fetches the content from a specified URL and prints the response.
+This project demonstrates how to make a basic HTTP GET request using the **http** module in the [**Tender**](https://github.com/2dprototype/tender). The script fetches the content from a specified URL and prints the response.
 
 ## Preview
 
