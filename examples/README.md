@@ -301,6 +301,10 @@ examples
 
 The `count.td` script counts the total number of `.td` files in the current directory and its subdirectories. It provides a simple way to track how many Tender scripts you have, which can be useful for project organization or inventory purposes.
 
+## Preview
+
+![preview](./count/preview.png)
+
 **How It Works**:
 1. **Walks the Directory**: The script uses the `path.walklist` function to retrieve a list of files in the current directory.
 2. **Counts `.td` Files**: It iterates through the list and checks each file's extension. If the extension is `.td`, it increments a counter and adds the file to a list.
