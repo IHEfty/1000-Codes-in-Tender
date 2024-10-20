@@ -4,7 +4,8 @@ The **Cut** project is part of the **1000+ Codes in Tender** collection. This pr
 
 ## Preview
 
-![preview](./cut.png)
+![preview](./gopher.png)
+![preview](./out.png)
 
 ## Running the Project
 
