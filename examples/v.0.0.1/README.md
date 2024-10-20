@@ -16,7 +16,10 @@ This project contains various utility scripts written in the **Tender** programm
 ## Overview of Each File
 
 ### 1. **big_intfloat.td**
-
+**To Run `big_intfloat.td`**:
+```bash
+tender big_intfloat.td
+```
 This script demonstrates the creation and manipulation of big integers and big floats in Tender.
 
 ```tender
@@ -38,7 +41,10 @@ println(bf3)
 ```
 
 ### 2. **fmt_fprint.td**
-
+**To Run `fmt_fprint.td`**:
+```bash
+tender fmt_fprint.td
+```
 This script demonstrates formatted printing with color support using the `fmt` and `colors` modules.
 
 ```tender
@@ -52,7 +58,10 @@ fmt.fprintln(os.stdout, "Hello".red, "World".green, "\n")
 ```
 
 ### 3. **io_reader.td**
-
+**To Run `io_reader.td`**:
+```bash
+tender io_reader.td
+```
 This script showcases reading from the standard input and using the `io` module.
 
 ```tender
@@ -66,7 +75,10 @@ io.read_all(reader)
 ```
 
 ### 4. **io_writer.td**
-
+**To Run `io_writer.td`**:
+```bash
+tender io_writer.td
+```
 This script demonstrates how to write the output of a command to a file.
 
 ```tender
@@ -88,7 +100,10 @@ go version go1.22.3 windows/amd64
 ```
 
 ### 6. **stdlib_colors.td**
-
+**To Run `stdlib_colors.td`**:
+```bash
+tender stdlib_colors.td
+```
 This script demonstrates the usage of colors in the console output.
 
 ```tender
@@ -101,7 +116,10 @@ cerr.write("\x1b[0;31mtender script\x1b[0m\n")
 ```
 
 ### 7. **stdlib_gob.td**
-
+**To Run `stdlib_gob.td`**:
+```bash
+tender stdlib_gob.td
+```
 This script demonstrates GOB encoding and decoding of data structures in Tender.
 
 ```tender
@@ -116,7 +134,10 @@ println(decoded)
 ```
 
 ### 8. **wrapper.td**
-
+**To Run `wrapper.td`**:
+```bash
+tender wrapper.td
+```
 This script demonstrates wrapping and unwrapping data structures in Tender.
 
 ```tender
@@ -126,20 +147,6 @@ var wrapped_map = wrap(map)
 println(wrapped_map)
 println(wrapped_map.x)
 println(unwrap(wrapped_map))
-```
-
-## Running the Project
-
-To execute any of the scripts, use the following command:
-
-```bash
-tender <script_name>.td
-```
-
-For example, to run the `big_intfloat.td` script, execute:
-
-```bash
-tender big_intfloat.td
 ```
 
 ## Dependencies
