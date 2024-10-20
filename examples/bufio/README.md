@@ -2,6 +2,10 @@
 
 This project demonstrates how to use the **Buffered I/O** (`bufio`) module in the **Tender** programming language. By utilizing `bufio`, you can read input efficiently by line, string, or bytes from standard input.
 
+## Preview
+
+![preview](./preview.png)
+
 ## Files Included
 
 - **bufio.td**: The Tender script that demonstrates the usage of the `bufio` module for reading input in different formats.
