@@ -4,6 +4,10 @@
 
 This repository contains a script, `benzene.td`, that demonstrates the drawing of a benzene ring using the [**Tender**](https://github.com/2dprototype/tender). The script utilizes the canvas module to create a visual representation of a benzene structure by drawing hexagons with customizable parameters.
 
+## Preview
+
+![preview](./res/preview.png)
+
 ## Script
 
 ### `benzene.td`
