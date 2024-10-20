@@ -2,6 +2,10 @@
 
 The **Termimage** project is part of the **1000+ Codes in Tender** collection. This project, written in the [**Tender**](https://github.com/2dprototype/tender), allows users to convert images into ASCII art and display them in the terminal, with optional color support.
 
+## Preview
+
+![preview](./preview.png)
+
 ## Running the Project
 
 To run the Termimage project, execute the `cli.td` script:
