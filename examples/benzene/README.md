@@ -6,7 +6,7 @@ This repository contains a script, `benzene.td`, that demonstrates the drawing o
 
 ## Preview
 
-![preview](./res/preview.png)
+![preview](./preview.png)
 
 ## Script
 
