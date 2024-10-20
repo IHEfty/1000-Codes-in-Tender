@@ -44,9 +44,18 @@ After cloning the repository, you can run any of the example codes provided:
    ```
 
 2. Run a specific Tender script:
+To execute any of the scripts, use the following command:
+
    ```bash
-   tender example_script.td
+   tender <script_name>.td
    ```
+
+For example, to run the `wooh.td` script, execute:
+
+   ```bash
+   tender wooh.td
+   ```
+
 
 Feel free to explore the various code snippets and modify them as needed to fit your projects.
 
