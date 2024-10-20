@@ -2,6 +2,10 @@
 
 The **Cut** project is part of the **1000+ Codes in Tender** collection. This project, written in the [**Tender**](https://github.com/2dprototype/tender), demonstrates how to manipulate and draw images on a canvas.
 
+## Preview
+
+![preview](./cut.png)
+
 ## Running the Project
 
 To run the Cut project, execute the `cut.td` script:
