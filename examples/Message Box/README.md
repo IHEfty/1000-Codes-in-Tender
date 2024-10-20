@@ -4,6 +4,10 @@
 
 This repository contains a simple script, `msg.td`, that demonstrates how to create a message box in the [**Tender**](https://github.com/2dprototype/tender). This script uses the `messagebox` module to display a custom message to the user.
 
+## Preview
+
+![preview](./preview.png)
+
 ## Script
 
 ### `msg.td`
