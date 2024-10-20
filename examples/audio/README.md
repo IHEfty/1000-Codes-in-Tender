@@ -16,6 +16,12 @@ tender audio_test.td
 
 This will play the specified audio file (`audio.mp3`) and print the remaining time in seconds to the terminal.
 
+```bash
+tender example.td
+```
+
+This will play the specified audio file (`myaudio.mp3`) without print the remaining time in seconds to the terminal.
+
 ### Customizing the Audio File
 
 To play a different audio file, replace `"audio.mp3"` in the `play` function call with your desired audio file name. Ensure that your audio file is located in the same directory as the script.
