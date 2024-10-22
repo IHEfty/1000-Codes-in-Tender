@@ -12,10 +12,10 @@ tender cut.td
 
 This will load the image `gopher.png` and create an output image `out.png` with various drawings.
 
-## gopher.png
+## `gopher.png`
 ![preview](./gopher.png)
 
-## out.png
+## `out.png`
 ![preview](./out.png)
 ### Customizing the Image
 
