@@ -21,7 +21,7 @@ tender image.td
 After running the script, an image file named `out.png` will be generated in the same directory. The image will be a 255x255 pixel gradient where the red and blue components of the color change based on the pixel's position.
 
 ### Example Output
-## out.png
+## (`out.png`)
 
 ![preview](./out.png)
 
