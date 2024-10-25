@@ -4,7 +4,7 @@ This script creates an analog clock in the **Tender** programming language, util
 
 ## Preview
 
-![preview](./preview.png)
+![preview](./preview.gif)
 
 ## Features
 
