@@ -16,7 +16,7 @@ The game canvas is 600x400 pixels, with a grid size of 20 pixels, where the Gree
 
 ## Game Preview
 
-[![Game Preview](./preview.png)](https://firebasestorage.googleapis.com/v0/b/snigebrawlaereht.appspot.com/o/uploads%2Fpreview.mp4?alt=media&token=e9a89b71-f723-429c-8989-9173c6c4d5b7) 
+![Game Preview](./preview.gif)
 
 ---
 
