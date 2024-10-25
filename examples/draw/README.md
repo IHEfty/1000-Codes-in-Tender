@@ -30,7 +30,7 @@ tender draw.td
 ### File Structure
 
 ```
-.
+draw
 ├── draw.td        # Script for drawing the gumball machine
 ├── gumball.txt    # Text representation of the gumball machine
 └── out.png        # Output image of the rendered gumball machine
