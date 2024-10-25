@@ -20,14 +20,14 @@ This project showcases how to create dynamic wave visualizations using the **Ten
 ## Installation
 
 1. Clone this repository or download the script.
-2. Save the code in a file named `wave_visualizer.td`.
+2. Save the code in a file named `waves.td`.
 
 ## Usage
 
 Run the script using the following command:
 
 ```bash
-tender wave_visualizer.td
+tender waves.td
 ```
 
 ## Code Overview
