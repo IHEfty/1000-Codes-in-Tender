@@ -94,7 +94,7 @@ tender pi_arc.td
    ```
 
 ## Output
-![Output](./out.png)
+![Output](./pi_arc.png)
 
 After running the script, you will get an output image (`pi_arc.png`) that visually represents the pie segments filled with different colors.
 
