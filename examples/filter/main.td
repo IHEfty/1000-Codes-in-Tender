@@ -13,7 +13,7 @@ import "filters/blur"
 w := 600
 h := 400
 
-img := image.load("image.png")
+img := image.load("image.jpg")
 
 var bounds = []
 
