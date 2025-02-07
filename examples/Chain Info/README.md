@@ -1,20 +1,11 @@
-# Chain Info Script in [**Tender**](https://github.com/2dprototype/tender-free)
+# Chain Info Script in Tender
 
-## Overview
-
-This script, `chain_info.td`, fetches blockchain data from an external API and processes it to display information about transactions, specifically the balance of addresses in the blockchain. It utilizes the [**Tender**](https://github.com/2dprototype/tender), along with HTTP and JSON modules to handle data retrieval and processing.
+This script, `chain_info.td`, fetches blockchain data from an external API and processes it to display address balances. It uses Tender, along with HTTP and JSON modules for data retrieval and processing.
 
 ## Script
 
 ### `chain_info.td`
 
-The script performs the following tasks:
-- Fetches the blockchain data from `https://whalecoin.glitch.me/blockchain`.
-- Decodes the JSON response and processes the transaction data for each block in the chain.
-- It maintains an address balance sheet, updating balances based on transaction amounts (sent and received).
-- Displays the balance of each valid address and prints the total balance.
-
-**Code Example:**
 ```tender
 import "http"
 import "json"
@@ -51,20 +42,20 @@ println()
 sysout "Total Amount: ".iwhite, total, "\n"
 ```
 
-### Key Functionalities:
-- **Blockchain Data Fetching**: Retrieves blockchain data using HTTP requests.
-- **Transaction Processing**: Updates the balance of both the sender and recipient of each transaction.
-- **Address Balance Display**: Shows the balances of all valid addresses.
-- **Total Calculation**: Calculates and prints the total balance of all addresses.
+### Key Features:
+- **Blockchain Data Fetching**: Retrieves data via HTTP.
+- **Transaction Processing**: Updates sender and recipient balances.
+- **Balance Display**: Shows balances of valid addresses.
+- **Total Calculation**: Prints the total balance.
 
 ## Usage
 
-1. Ensure the script is run in an environment where Tender is installed and the internet connection is available.
-2. To run the script, use the following command in your terminal:
+1. Ensure Tender is installed and internet is available.
+2. Run the script:
     ```bash
     tender chain_info.td
     ```
-3. The output will display the balance of each address in the blockchain and a summary of the total amount.
+3. Output displays address balances and total amount.
 
 ### Sample Output:
 ```
@@ -75,13 +66,9 @@ Total Amount: 50.00
 ```
 
 ## Dependencies
-- **HTTP**: For making API requests.
-- **JSON**: For decoding and processing the JSON response.
-
-## Explore More
-
-This project is part of the 1000+ Codes in Tender repository. Feel free to explore and modify the code to enhance your understanding of blockchain data processing with Tender!
+- **HTTP**: For API requests.
+- **JSON**: For processing JSON data.
 
 ## License
 
-This project is open-source. Feel free to contribute or use it in your own projects.
+Open-source. Feel free to use or contribute.
