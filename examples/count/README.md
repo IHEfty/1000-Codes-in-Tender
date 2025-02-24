@@ -22,9 +22,3 @@ tender count.td
 
 ## License
 This project is open-source. Contributions are welcome!
-
-## Explore More
-Check out the full collection at [1000+ Codes in Tender](https://github.com/IHEfty/1000-Codes-in-Tender/).
-
-## Acknowledgments
-Thanks to the Tender community for your continued support!
