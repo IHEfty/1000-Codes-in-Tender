@@ -1,11 +1,10 @@
-import "helper/randint"
-
 export fn(img) {
 	pixels := img.get_pixels()
 	for i := 0; i < len(pixels); i += 4 {	
-		pixels[i] = (pixels[i] + randint(0, 255)) / 2
-		pixels[i + 1] = (pixels[i + 1] + randint(0, 255)) / 2
-		pixels[i + 2] = (pixels[i + 2] + randint(0, 255)) / 2
+		v := 0.3 * pixels[i] + 0.59 * pixels[i+1] + 0.11 * pixels[i+2]
+		pixels[i] = v
+		pixels[i+1] = v
+		pixels[i+2] = v
 		if pixels[i] > 255 {
 			pixels[i] = 255
 		}
