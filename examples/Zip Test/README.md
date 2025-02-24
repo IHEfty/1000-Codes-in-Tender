@@ -26,10 +26,3 @@ Make sure to adjust the reading logic accordingly if you change the name of the 
 
 - **zip_test.td**: The main script that creates a ZIP file and reads its contents.
 
-## Explore More
-
-The **Zip Test** project is one of many examples in the **1000+ Codes in Tender** repository. Feel free to explore and modify the code to enhance your understanding of file compression and manipulation with Tender!
-
-## License
-
-This project is open-source. Feel free to contribute or use it in your own projects.
