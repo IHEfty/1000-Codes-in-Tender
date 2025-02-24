@@ -1,63 +1,19 @@
-# Chain Info Script in Tender
+# Chain Info Script (Tender)
 
-This script, `chain_info.td`, fetches blockchain data from an external API and processes it to display address balances. It uses Tender, along with HTTP and JSON modules for data retrieval and processing.
+`chain_info.td` fetches blockchain data, processes transactions, and displays address balances.
 
-## Script
-
-### `chain_info.td`
-
-```tender
-import "http"
-import "json"
-
-data := http.get(`https://whalecoin.glitch.me/blockchain`)
-chain := json.decode(data)
-
-address := {}
-
-for block in chain {
-	for transaction in block.transactions {
-		if address[transaction.recipient] == null {
-			address[transaction.recipient] = 0
-		}
-		if address[transaction.sender] == null {
-			address[transaction.sender] = 0
-		}
-		address[transaction.recipient] += transaction.amount
-		address[transaction.sender] -= transaction.amount
-	}
-}
-
-total := 0
-
-for k, v in address {
-	if len(k) != 42 {
-		continue
-	}
-	sysout k.green, " ", string(v).iwhite, "\n"
-	total += v
-}
-
-println()
-sysout "Total Amount: ".iwhite, total, "\n"
-```
-
-### Key Features:
-- **Blockchain Data Fetching**: Retrieves data via HTTP.
-- **Transaction Processing**: Updates sender and recipient balances.
-- **Balance Display**: Shows balances of valid addresses.
-- **Total Calculation**: Prints the total balance.
+## Features
+- **Fetches Blockchain Data** via HTTP.  
+- **Processes Transactions** updating balances.  
+- **Displays Balances** for valid addresses.  
+- **Calculates Total** amount in the blockchain.  
 
 ## Usage
+```bash
+tender chain_info.td
+```
 
-1. Ensure Tender is installed and internet is available.
-2. Run the script:
-    ```bash
-    tender chain_info.td
-    ```
-3. Output displays address balances and total amount.
-
-### Sample Output:
+## Sample Output
 ```
 0xabc123def456...  100.00
 0x987zyx654wvu...  -50.00
@@ -66,9 +22,6 @@ Total Amount: 50.00
 ```
 
 ## Dependencies
-- **HTTP**: For API requests.
-- **JSON**: For processing JSON data.
+- HTTP, JSON (built-in Tender modules).  
 
-## License
-
-Open-source. Feel free to use or contribute.
+**License:** Open-source.
