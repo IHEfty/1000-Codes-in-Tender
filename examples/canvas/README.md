@@ -65,11 +65,3 @@ ctx.hex("#0f0") // Change color using hex codes
 The `example.td` script (part of this project) generates the following image and saves it as `output.png`:
 
 ![Generated Output](./output.png)
-
-## License
-
-This project is open-source. Feel free to contribute or use it in your own projects.
-
-## Explore More
-
-The **Canvas Window & Window Resizing Project** is just one of many examples in the **1000+ Codes in Tender** repository. Feel free to explore and modify the code to enhance your understanding of graphics programming and window management with Tender!
