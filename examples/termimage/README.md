@@ -34,7 +34,3 @@ You can adjust the width, height, and color settings by modifying the parameters
 - **termcolor.td**: Contains utilities for converting RGB values to ANSI color codes.
 - **termimage.td**: Implements the logic for decoding images and converting them to ASCII art.
 - **cli.td**: The main script that processes and displays the selected image.
-
-## Explore More
-
-The **Termimage** project is one of many examples in the **1000+ Codes in Tender** repository. Feel free to explore and experiment with different images and settings to enhance your understanding of image processing with Tender!
