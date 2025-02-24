@@ -31,6 +31,3 @@ im := image.load("your_image.png")
 
 - **cut.td**: The main script that loads the image and performs drawing operations on the canvas.
 
-## Explore More
-
-The **Cut** project is one of many examples in the **1000+ Codes in Tender** repository. Feel free to explore and modify the code to enhance your understanding of image manipulation with Tender!
