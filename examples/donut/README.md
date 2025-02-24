@@ -1,50 +1,16 @@
 # Donut
 
-The **Donut** project is part of the **1000+ Codes in Tender** collection. This project, written in the [**Tender**](https://github.com/2dprototype/tender) , demonstrates how to create a rotating ASCII donut shape in the terminal.
+The **Donut** project demonstrates creating a rotating 3D ASCII donut in the terminal using **Tender**. It uses mathematical functions to generate and continuously update the donut's shape, creating a rotation effect.
 
-## Overview
+![Donut Preview](./preview.png)
 
-The **Donut** program uses mathematical functions to generate a 3D donut shape, represented using ASCII characters. The program continuously updates the display to create a rotating effect, providing a visually engaging output.
+## How It Works
 
-## Preview
+The program calculates the donut's shape using trigonometric functions, and displays it using ASCII characters. The rotation is achieved by incrementing values in the main loop that update the donut's position.
 
-![preview](./preview.png)
-
-## Running the Project
-
-To run the Donut project, execute the `donut.td` script:
-
-```bash
-tender donut.td
-```
-
-This will generate an ASCII donut that rotates in the terminal.
-
-### Customizing the Animation
-
-You can modify the speed of the rotation by adjusting the increments of `A` and `B` in the main loop. For example, changing the values like so:
-
-```tender
-A += 0.05
-B += 0.02
-```
-
-will result in a slower rotation.
+You can adjust the rotation speed by modifying the values of `A` and `B` in the main loop.
 
 ## Project Structure
 
-- **donut.td**: The main script that generates the rotating ASCII donut. It contains the logic for rendering the donut shape based on mathematical calculations.
+- **donut.td**: Main script to generate the rotating ASCII donut.
 
-### Code Details
-
-- **Imports**: The script imports the `math` and `strings` modules for mathematical functions and string manipulation.
-- **Functions**: The `draw` function calculates the donut's shape and updates the ASCII representation.
-- **Main Loop**: The loop continuously updates the parameters for the drawing function, creating the rotation effect.
-
-## Project Structure
-
-- **cut.td**: The main script that loads the image and performs drawing operations on the canvas.
-
-## Explore More
-
-The **Donut** project is one of many examples in the **1000+ Codes in Tender** repository. Feel free to explore and modify the code to enhance your understanding of ASCII art and mathematical visualizations in Tender!
