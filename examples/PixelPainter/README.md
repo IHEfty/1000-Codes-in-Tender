@@ -8,3 +8,5 @@
 - Running `tender main.td` generates the image.  
 
 Modify `col.td` to customize colors. Experiment with different values to create unique patterns!
+> # out.png
+> ![preview](./out.png)
