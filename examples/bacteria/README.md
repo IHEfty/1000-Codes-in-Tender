@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <a href="./public/images/preview.mp4">
+      <a href="./public/img/preview.mp4">
         <img src="./img/preview.gif" alt="Preview 00" width="450" />
       </a>
     </td>
