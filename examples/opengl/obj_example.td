@@ -36,8 +36,7 @@ glut.reshape_func(fn(w, h) {
     gl.matrix_mode(gl.MODELVIEW)
 })
 
-// model = obj.load_obj("output.obj")
-model = obj.load_obj("test/gl/monkey.obj")
+model = obj.load_obj("monkey.obj")
 if model == null {
     println("Failed to load model. Exiting.")
     os.exit(1)

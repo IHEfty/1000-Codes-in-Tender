@@ -4,10 +4,10 @@ import "os"
 
 // Initialize GLUT
 glut.init()
-gl.init()
 glut.init_display_mode(glut.RGBA | glut.DOUBLE | glut.DEPTH)
 glut.init_window_size(400, 400)
 glut.init_window_position(100, 100)
+gl.init()
 
 // Create window
 win := glut.create_window("GLUT OpenGL Demo")
