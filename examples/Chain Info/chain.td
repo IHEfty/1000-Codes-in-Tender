@@ -3,7 +3,7 @@ import "json"
 import "strings"
 import "bufio"
 
-king := "0x" + strings.repeat("0", 40)
+king := "0xWC" + strings.repeat("0", 16)
 space := strings.repeat(" ", 42)
 
 format_num := fn(num) {
@@ -28,8 +28,8 @@ format_num := fn(num) {
 		}
 }
 
-data := http.get(`https://whalecoin.glitch.me/blockchain`)
-chain := json.decode(data)
+data := http.get(`https://whalecoin.onrender.com/blockchain`)
+chain := json.decode(data.body())
 
 print("Address: ")
 addr := strings.trim_space(bufio.readline())
@@ -56,7 +56,7 @@ for block in chain {
 }
 
 print()
-sysout "-----------------------------------------------------------", "\n"
+sysout "-------------------------", "\n"
 
-sysout "                                            ", total, "\n"
+sysout "                      ", total, "\n"
 sysout "Total Amount: ".iwhite, format_num(total) // "\n"
